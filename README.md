@@ -1,2 +1,7 @@
-# pandas
-根据Datawhale提供的pandas学习资料，记录下自己不熟悉的部分
+# datawhale学习笔记
+## pandas查漏补缺
+## 机器学习算法
+### 线性回归
+- 牛顿法
+- 拟合优度$R^2$理解
+- python实现最小二乘与梯度下降
