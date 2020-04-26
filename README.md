@@ -2,8 +2,11 @@
 ## pandas查漏补缺
 ### [1.pandas基础](https://nbviewer.jupyter.org/github/yeahjinfu/pandas--/blob/master/PandasKnownAfter.ipynb#)
 ### [2.索引](https://nbviewer.jupyter.org/github/yeahjinfu/pandas--/blob/master/pandas2%E7%B4%A2%E5%BC%95.ipynb)
+### [3.分组](https://nbviewer.jupyter.org/github/yeahjinfu/pandas--/blob/master/pandas%E7%AC%94%E8%AE%B0/pandas3%E5%88%86%E7%BB%84.ipynb)
 ## 机器学习算法
 ### [1.线性回归](https://nbviewer.jupyter.org/github/yeahjinfu/pandas--/blob/master/ML1%E5%9B%9E%E5%BD%92.ipynb)
 - 牛顿法
 - 拟合优度理解
 - python实现最小二乘与梯度下降
+### 2.朴素贝叶斯
+### 3.EM算法
