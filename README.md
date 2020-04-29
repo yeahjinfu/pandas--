@@ -4,6 +4,10 @@
 ### [1.pandas基础](https://nbviewer.jupyter.org/github/yeahjinfu/pandas--/blob/master/pandas%E7%AC%94%E8%AE%B0/pandas1%E5%9F%BA%E7%A1%80.ipynb)
 ### [2.索引](https://nbviewer.jupyter.org/github/yeahjinfu/pandas--/blob/master/pandas%E7%AC%94%E8%AE%B0/pandas2%E7%B4%A2%E5%BC%95.ipynb)
 ### [3.分组](https://nbviewer.jupyter.org/github/yeahjinfu/pandas--/blob/master/pandas%E7%AC%94%E8%AE%B0/pandas3%E5%88%86%E7%BB%84.ipynb)
+### [4.变形](https://nbviewer.jupyter.org/github/yeahjinfu/pandas--/blob/master/pandas%E7%AC%94%E8%AE%B0/pandas4%20%E5%8F%98%E5%BD%A2.ipynb)
+- pivot_table , melt
+- stack , unstack
+- get_dummies, factorize
 ## 机器学习算法
 ### [1.线性回归](https://nbviewer.jupyter.org/github/yeahjinfu/pandas--/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0/ML1%E5%9B%9E%E5%BD%92.ipynb)
 - 牛顿法
