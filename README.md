@@ -8,6 +8,8 @@
 - pivot_table , melt
 - stack , unstack
 - get_dummies, factorize
+### 5.合并
+### [pandas练习题](https://nbviewer.jupyter.org/github/yeahjinfu/pandas--/blob/master/pandas%E7%AC%94%E8%AE%B0/pandas%E4%B8%8A%E7%BB%83%E4%B9%A0%E9%A2%98/pandas%E4%B8%8A%E7%BB%83%E4%B9%A0%E9%A2%98.ipynb)
 ## 机器学习算法
 ### [1.线性回归](https://nbviewer.jupyter.org/github/yeahjinfu/pandas--/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0/ML1%E5%9B%9E%E5%BD%92.ipynb)
 - 牛顿法
